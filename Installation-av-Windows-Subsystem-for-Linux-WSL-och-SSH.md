@@ -1,5 +1,4 @@
 
-```markdown
 # Steg-för-steg Guide för WSL och GitHub
 
 ## 1. Installera WSL och Ubuntu
